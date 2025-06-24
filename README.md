@@ -12,7 +12,8 @@ Currently expanding my skill set with Python, JavaScript, TypeScript, React, and
 🔭 Check out some of my projects below, including [ReactChatApp](https://github.com/VladStefanC/ReactChatApp) — a real-time chat application built with React.
 
 📫 Feel free to reach out via LinkedIn or email!
-
+- LinkedIn: [linkedin.com/in/vlad-ciorescu-2b9197164](https://www.linkedin.com/in/vlad-ciorescu-2b9197164)
+- Email : ciorescuvladstefan0@gmail.com
 ---
 
 ### Tech & Tools
