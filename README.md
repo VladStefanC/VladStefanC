@@ -28,7 +28,7 @@ Currently expanding my skill set with Python, JavaScript, TypeScript, React, and
 ---
 
 ### 📌 Pinned Projects
-
+- [Coffee CLI](https://github.com/VladStefanC/CoffeeCLI) - Command line app for coffee lovers with FastAPI and python
 - [ReactChatApp](https://github.com/VladStefanC/ReactChatApp) — Real-time chat app built with React  
 - [Asteroids Game](https://github.com/VladStefanC/AsteroidsGame) - A small game built with pygame 
 - [CLI Tool](https://github.com/VladStefanC/CLI_Tool) - AI CLI tool built with Python 
