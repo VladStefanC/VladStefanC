@@ -1,13 +1,9 @@
-# 👋 Hi, I’m Vlad-Stefan Ciorescu
+#  Cheers, I’m Vlad
 
-🎯 Full-stack developer with 4+ years in real-time game logic (Lua/C++), now building fast, clean backend and frontend web apps (Python, FastAPI, React, NestJS).
+ Ex Full-Stack Game Developer in LUA. Currently aspiring to learn something usefull for me or to land a job in this field.
+Maybe Ill make a tool maybe Ill make an App, who knows. I mostly code for myself. 
+Currently dibble dabble into Node.js with TypeScript/JavaScript but who know maybe next project is in GO or Zig. Idk thats for sure or maybe go and work a geese farm. Also I love Neovim but can barely use it properly. And ricing arch linux everytime I see something cool on Reddit.
 
-🧠 I love building tools that make people think better or work faster — like [CoffeeCLI](https://github.com/VladStefanC/CoffeeCLI), a terminal productivity assistant powered by AI.
+📫 Reach me: [ciorescuvladstefan@gmail.com](mailto:ciorescuvladstefan@gmail.com)
 
-💼 Currently looking for backend or full-stack roles — bonus if it involves problem-solving, weird logic, or games.
-
-📍 Brasov, Romania | 🧰 Python, TypeScript, PostgreSQL, FastAPI, React
-
-📫 Reach me: [ciorescuvladstefan0@gmail.com](mailto:ciorescuvladstefan0@gmail.com)
-
-> _“Software should feel like magic, not a migraine.”_
+> _“Software development is pretty much hell until you fix the error on the empty line.”_
